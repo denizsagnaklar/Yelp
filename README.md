@@ -4,7 +4,7 @@ New Feature Ideas for Yelp
 For a Human & Computer Interaction project, I chose to work on analyzing Yelp and adding features targeted more heavily
 at the visually focused milennial userbase. I named this new spin-off service "Foodsta" because it reflected how I
 incorporated the photo focused design of Instagram into the interface and the focus on resturants and cafes. 
-You can find pictures of the design of these new features in this respository.
+You can find simple mockups of my design in this respository.
 
 After I conducted user observations of the way in which people navigate applications such as Yelp, OpenTable, and Postmates,
 I concluded that the most common complaints were that:
